@@ -1,0 +1,9 @@
+{
+   "VA": {
+            "dbConfig": {
+            "host": "localhost",            
+            "dbURL": "mongodb+srv://test1:Iz7RNSB9QVtLoOBN@cluster0.azlxo.mongodb.net/?retryWrites=true&w=majority"
+        },
+        "port": 3001
+    }
+}
